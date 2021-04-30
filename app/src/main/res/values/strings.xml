@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anh Khoa Work Out Timer</string>
+    <string name="start_button">START</string>
+    <string name="pause_button">PAUSE</string>
+    <string name="stop_button">STOP</string>
+    <string name="time_study">You spent 00:00 on push ups time</string>
+</resources>
